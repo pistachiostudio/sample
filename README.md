@@ -1,3 +1,1 @@
-### ぐちゃぐちゃなんで整理してからやります
-https://pistachiostudio.net/  
-で適用しているtumblrのテーマ。
+Tumblr theme for https://pistachiostudio.net/
